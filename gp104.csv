@@ -1,4 +1,4 @@
-Tablespace	Total Size Mb	Used Mb	Free Mb	%Free
+Tablespace	Total SizeMb	UsedMb	FreeMb	Free
 SYSAUX	5120	2587.43	2532.56	49.46
 TS_AR_D	10626	5506.25	5119.75	48.18
 TS_AP_D	6425	3348.37	3076.62	47.88
